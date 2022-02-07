@@ -1,5 +1,7 @@
 <div> 
-  <h2>Meus Contatos 😇😊</h2>
+  <h2>Sou um desenvolvedore Java. Além disto, gosto e estudo sobre Node.Js, TypeScript e Testes unitários. </h2>
+  <br>
+  <h3>Meus Contatos 😇😊</h3>
   <a href = "mailto:contatoscarlatt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/scarlatt-luz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
