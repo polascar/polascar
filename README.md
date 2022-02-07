@@ -1,5 +1,5 @@
 <div> 
-  <h3> About me </h3>
+  <h3> About me </h3> 
   <p>Sou um desenvolvedore Java. Além disto, gosto e estudo sobre Node.Js, TypeScript e Testes unitários. </p>
   <br>
   <h3>Meus Contatos 😇😊</h3>
@@ -16,7 +16,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-    <img align="center" alt="Java-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Java-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Node.Js" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,8 @@
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  
+  <img align="right" height="150" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
   <img align="right" alt="Scar-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/104941_EhetyeEL.png">
   
   ![Snake animation](https://github.com/Scarlatt-Luz/Scarlatt-Luz/blob/output/github-contribution-grid-snake.svg)
