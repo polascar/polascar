@@ -1,5 +1,6 @@
 <div> 
-  <h2>Sou um desenvolvedore Java. Além disto, gosto e estudo sobre Node.Js, TypeScript e Testes unitários. </h2>
+  <h3> About me </h3>
+  <p>Sou um desenvolvedore Java. Além disto, gosto e estudo sobre Node.Js, TypeScript e Testes unitários. </p>
   <br>
   <h3>Meus Contatos 😇😊</h3>
   <a href = "mailto:contatoscarlatt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
