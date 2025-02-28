@@ -1,6 +1,6 @@
 <div> 
   <h3> About me </h3> 
-  <p> I'm a FullStack Developer and I like to study about Quality in Code, Unit Tests and Architecture. </p>
+  <p> I'm a FullStack Developer and I like to study about Quality in Code, Unit Tests, Architecture and Infra as Code. </p>
   <p> Currently my repository is a little old, because there are some code that I wouldn´t make this way. Although this is how I start, hope you can understand. </p>
   
   <h3>You can contact me in the following ways: </h3>
