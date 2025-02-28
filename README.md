@@ -1,6 +1,6 @@
 <div> 
   <h3> About me </h3> 
-  <p> I'm a Java FullStack Developer and I like and study about Node.Js, TypeScript and Unit Test. </p>
+  <p> I'm a FullStack Developer and I like and study about Node.Js, TypeScript and Unit Test. </p>
   
   <h3>You can contact me😊</h3>
   <a href = "mailto:contatoscarlatt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/Scarlatt-luz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scarlatt-Luz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlatt-Luz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polascar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polascar&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
