@@ -1,16 +1,17 @@
 <div> 
   <h3> About me </h3> 
-  <p> I'm a FullStack Developer and I like and study about Node.Js, TypeScript and Unit Test. </p>
+  <p> I'm a FullStack Developer and I like to study about Quality in Code, Unit Tests and Architecture. </p>
+  <p> Currently my repository is a little old, because there are some code that I wouldn´t make this way. Although this is how I start, hope you can understand. </p>
   
-  <h3>You can contact me😊</h3>
-  <a href = "mailto:contatoscarlatt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <h3>You can contact me in the following ways: </h3>
+  <a href = "mailto:contatoscarluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/scar-luz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Scarlatt-luz">
+  <a href="https://github.com/polascar/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polascar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polascar&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
@@ -24,9 +25,7 @@
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="Scar-pic" height="150" style="border-radius:50px;" src="![me](https://github.com/user-attachments/assets/88179056-1f51-4b0b-a0e1-5814871c1cee)">
-  
+    
   ![Snake animation](https://github.com/polascar/polascar/blob/output/github-contribution-grid-snake.svg)
 </div>
   
